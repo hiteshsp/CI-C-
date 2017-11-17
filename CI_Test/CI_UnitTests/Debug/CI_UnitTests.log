@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  unittest1.cpp
+     Creating library C:\Users\hitesh\GGK_Test\CI_Test\Debug\CI_UnitTests.lib and object C:\Users\hitesh\GGK_Test\CI_Test\Debug\CI_UnitTests.exp
+  CI_UnitTests.vcxproj -> C:\Users\hitesh\GGK_Test\CI_Test\Debug\CI_UnitTests.dll
+  CI_UnitTests.vcxproj -> C:\Users\hitesh\GGK_Test\CI_Test\Debug\CI_UnitTests.pdb (Partial PDB)
